@@ -10,3 +10,5 @@ https://github.com/Waujito/geo_data
 https://www.kaggle.com/datasets/kazanova/sentiment140/code?datasetId=2477&sortBy=voteCount
 
 http://site.m1r0.webtm.ru:31031/
+
+https://github.com/talkiiing-team/merito/blob/main/resume_classifier_train.ipynb
