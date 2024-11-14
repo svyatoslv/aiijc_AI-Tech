@@ -12,3 +12,7 @@ https://www.kaggle.com/datasets/kazanova/sentiment140/code?datasetId=2477&sortBy
 http://site.m1r0.webtm.ru:31031/
 
 https://github.com/talkiiing-team/merito/blob/main/resume_classifier_train.ipynb
+
+https://www.kaggle.com/code/redaabdou/depression-on-social-media
+
+https://www.kaggle.com/code/heyytanay/bert-with-pytorch-lightning-tpu-for-sentiments
