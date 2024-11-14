@@ -7,3 +7,6 @@ https://github.com/EgorAndrik/All-Russian-Olympiad-in-Artificial-Intelligence-20
 
 https://github.com/Waujito/geo_data
 
+https://www.kaggle.com/datasets/kazanova/sentiment140/code?datasetId=2477&sortBy=voteCount
+
+http://site.m1r0.webtm.ru:31031/
